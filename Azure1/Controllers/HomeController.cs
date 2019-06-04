@@ -24,7 +24,7 @@ namespace Azure1.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact11 page."
+            ViewData["Message"] = "Your contact11 page.";
 
             return View();
         }
